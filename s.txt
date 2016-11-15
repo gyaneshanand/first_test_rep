@@ -1,0 +1,6 @@
+total 16
+-rw-rw-r-- 1 gyanesh gyanesh 29 Nov 15 13:14 a.txt
+-rw-rw-r-- 1 gyanesh gyanesh 84 Nov 15 13:14 b.txt
+-rw-rw-r-- 1 gyanesh gyanesh 28 Nov 15 13:19 d.txt
+-rw-rw-r-- 1 gyanesh gyanesh 83 Nov 15 13:13 README.md
+-rw-rw-r-- 1 gyanesh gyanesh  0 Nov 15 13:25 s.txt
